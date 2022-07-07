@@ -1,8 +1,8 @@
-# GITHUB OAuth APP
+# Github OAuth App
 
 This project is to showcase the implementation of a github OAuth authentication feature.
 
-# GETTING STARTED 
+# Getting Started
 
 - Reister or login to a github account and have nodejs installed on your computer
 
