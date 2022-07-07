@@ -16,8 +16,8 @@ This project is to showcase the implementation of a github OAuth authentication 
 
 - Generate a new Client secret, copy it and the client Id and save somewhere safe.
 
-- clone this repository with the command below
-    `git clone https://github.com/Devtiwo/Github-OAuth-App.git` (https) OR
+- clone this repository with the command below\
+    `git clone https://github.com/Devtiwo/Github-OAuth-App.git` (https) OR\
     `git clone git@github.com:Devtiwo/Github-OAuth-App.git` (ssh)
 
 - Navigate to the directory with\
@@ -38,5 +38,6 @@ This project is to showcase the implementation of a github OAuth authentication 
 # To Test
 
 1. Login to the app using your github accout
-2. You should be logged in and be able to view your account information in the account tab
-3. Log out
+2. You should be redirected to the authorization page from github.
+3. After authorizing with github, You should be logged in and be able to view your account information in the account tab
+4. Log out
